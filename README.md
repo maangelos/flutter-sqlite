@@ -1,6 +1,6 @@
-# cadastro w/ SQLite
+# Cadastro com SQLite 
 
-A new Flutter project.
+A new Flutter project with SQLite (create,read)
 
 ## Getting Started
 
