@@ -1,4 +1,4 @@
-# wbanco
+# cadastro w/ SQLite
 
 A new Flutter project.
 
